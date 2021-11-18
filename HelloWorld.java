@@ -1,4 +1,4 @@
-/*
+/**
 * The "Hello Word!" program, just proves you can show print to terminal.
 *
 * @author  Roman Cernetchi
