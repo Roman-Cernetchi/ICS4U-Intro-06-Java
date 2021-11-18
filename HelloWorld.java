@@ -6,9 +6,6 @@
 * @since   2021-11-18
 */
 
-/**
-* This is the standard "Hello, World!" program.
-*/
 final class HelloWorld {
 
     /**
