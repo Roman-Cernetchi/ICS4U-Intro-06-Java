@@ -1,4 +1,4 @@
-/**
+/*
 * This is the package-info.java file.
 *
 * @author  Roman Cernetchi
